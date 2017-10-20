@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Breezy-GTK-Compact
+Comment=A compact GTK / Gnome-Shell theme using a few colors from the Breeze color palette and a few that aren't.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Breezy-GTK-Compact
+MetacityTheme=Breezy-GTK-Compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
