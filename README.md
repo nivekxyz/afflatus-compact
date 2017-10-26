@@ -1,4 +1,4 @@
-Afflatus-Compact 3.26
+Afflatus-Compact 3.26.1
 ---------------
 
 A compact GTK / Gnome-Shell theme.
@@ -26,3 +26,5 @@ Changelog
 0.4 - Fixed issue with shell theme that resulted in the default panel.solid color (black) taking over the panel when a window was full screen or near the panel. 
 
 3.26 - Changed name from "Breezy-GTK" to "Afflatus". Changed version to match Gnome version and made some refinements to the Gnome-Shell theme.
+
+3.26.1 - Rebased GTK theme on current clone of Materia. Resized and removed border from close window button in Activities overview.
